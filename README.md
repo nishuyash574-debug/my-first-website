@@ -1,2 +1,1 @@
-# my-first-website
-website
+Personal Website Project using HTML, CSS, JS, jQuery and JSON.
